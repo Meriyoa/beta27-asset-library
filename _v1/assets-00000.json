@@ -1,5 +1,5 @@
 {
-  "asset_count": 12,
+  "asset_count": 13,
   "file_count": 1,
   "assets": [
     {
@@ -351,6 +351,10 @@
       "bl_versions": {
         "min": "5.2"
       },
+      "thumbnail": {
+        "url": "Untitled_thumbnails/Object/cube.webp",
+        "hash": "SHA256:792fe395bd0a5aaa67c21d072145f75b7fefce895193d1ad599a3886f181b510"
+      },
       "meta": {
         "properties": [
           {
@@ -365,13 +369,41 @@
           }
         ]
       }
+    },
+    {
+      "name": "Cube.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Untitled.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Untitled_thumbnails/Object/cube001.webp",
+        "hash": "SHA256:3c80ed711cf12b27658d364ea280b50d95b0aadec084324196dcc401b49b7333"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.4156839847564697,
+              3.4156839847564697,
+              3.4156839847564697
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "Untitled.blend",
-      "size_in_bytes": 847823,
-      "hash": "SHA256:8f04018e1439949453d2876feff66b731edd030dc888987d40a74ae0f4b90e96",
+      "size_in_bytes": 913526,
+      "hash": "SHA256:baa295b72b462b2a2f1c5e219714f3a97513fa3214b78edfe242428ad63038b2",
       "blender_version": "5.2.44"
     }
   ]
