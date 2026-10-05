@@ -1,0 +1,18 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+fabd4bb2-7e2c-4eb6-a4d6-46b1488d3e51:enemy:enemy
+f12eee81-d733-4003-8157-4afcb0666679:enemy/big attachments:enemy-big attachments
+17e2155d-0123-4031-9f5e-741f126ce2cc:enemy/limbs:enemy-limbs
+e0514e56-c876-41a8-bb4f-fa82b4145bdf:enemy/repeatables:enemy-repeatables
+0499f13a-cf18-415d-b3bb-1eab9e9a4cba:enemy/small attachments:enemy-small attachments
+3cdf4a4b-df47-498a-a967-a8c52d390be5:environment:environment
+1ff8f4d1-5d3f-463d-b7e5-cd1fbd5724f4:environment/decorations:environment-decorations
+72bd6272-343e-4180-84c6-522c2a036f7d:environment/platforms:environment-platforms
+6d52c208-bde8-48c0-babc-45f6aeae88ba:environment/structures:environment-structures
+ba1e437b-f508-46cd-9dd5-3693e42cde7a:environment/walls:environment-walls
