@@ -1,6 +1,6 @@
 {
-  "asset_count": 49,
-  "file_count": 1,
+  "asset_count": 61,
+  "file_count": 2,
   "assets": [
     {
       "name": "Smooth by Angle",
@@ -1388,13 +1388,388 @@
           }
         ]
       }
+    },
+    {
+      "name": "CR Air Brush",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-air-brush.webp",
+        "hash": "SHA256:09f05bfc32174231d067cd66b2195aa893ee6946fd40380ce8d79b468bc17192"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "Air brush for spraying colors",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR flat marker.001",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-flat-marker001.webp",
+        "hash": "SHA256:e0e08fca331fcad62bc9798eb725b39026143850f92fc2293baaa752bad65374"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "Blockheaded marker",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR flat triangle",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-flat-triangle.webp",
+        "hash": "SHA256:26e78683105caf8dbe20ff757fe9a79cac26846aabe928a8a20ab5c3b323c010"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "Just a chill triangle",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR hard n soft edge.001",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-hard-n-soft-edge001.webp",
+        "hash": "SHA256:84c3cb57a7fdcb837a9cfda4f573e451154faf29d88465e176aae03eaf7dd59e"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "That edgy brush!",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR hard Round",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-hard-round.webp",
+        "hash": "SHA256:39aa30f94a693d9c79f648f06dc0d3a1c616cde0d922d312ffb73d9efe2eea32"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "Too many round brushes?",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR line break.001",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-line-break001.webp",
+        "hash": "SHA256:6da2a628c677b53359d1c12204423f4559079cef4745e65368ec80bd4d48693d"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "Change the dash setting in stroke to adjust spacing",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR particles.001",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-particles001.webp",
+        "hash": "SHA256:7f380b81646f7adef0390ac7cf15261ed097b093bb440d9a8db0f656c917d88d"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "Dust in the air",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR rake",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-rake.webp",
+        "hash": "SHA256:d518a6fbfd5584c7edc453bbc780656eed805ffec04ab35def47ec262db5dd52"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "We all love that graphical rake right? ",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR rake mixer",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-rake-mixer.webp",
+        "hash": "SHA256:94c333e199ed69a6709dc4526f21a9967af7463eb706ff5d2a191a7bcb790bda"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "Smears colors along the stroke.",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR soft brush",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-soft-brush.webp",
+        "hash": "SHA256:844408825ecd29f7f22b0c8f8017df46237a6fedeb3e6ec3a7a3c2b95911003a"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "description": "Cloudy",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "CR strake.001",
+      "id_type": "BRUSH",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Brush/cr-strake001.webp",
+        "hash": "SHA256:111cf2e0e8195373052518cbd34b89a1eb06a2cb1d4320944472d2e41d0c78f2"
+      },
+      "meta": {
+        "catalog_id": "1f8cee1a-1611-4778-b542-fdcd821312b2",
+        "author": "Omar Faruq Tawsif",
+        "properties": [
+          {
+            "name": "use_paint_image",
+            "type": "IDP_BOOL",
+            "value": true
+          },
+          {
+            "name": "image_brush_type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Catwalk_Platforms_end",
+      "id_type": "OBJECT",
+      "files": [
+        "environment_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "environment_library_thumbnails/Object/catwalk_platforms_end.webp",
+        "hash": "SHA256:4b62cbcbc61cf36c2aee7fd49ecc4a6c41cdb7d5b46029d7554bb89e284207f5"
+      },
+      "meta": {
+        "catalog_id": "590c3735-1282-4f48-b6ec-ea2f1429548e",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.3363988399505615,
+              3.700000286102295,
+              0.9899997711181641
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "enemy_library.blend",
-      "size_in_bytes": 1943957,
-      "hash": "SHA256:f489f2cce824799186b4bcae7138ab97bfa92d9a0a807f03735accd2965acddf",
+      "size_in_bytes": 1915516,
+      "hash": "SHA256:e409642cc1cad7f358d52bea214ad09359df1ca97fa0160c664606ce51edf503",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "environment_library.blend",
+      "size_in_bytes": 2832247,
+      "hash": "SHA256:722648a942e824f8354fd2bac2d5bdd071f38fd4a4dc0e234f8f977af1385ee8",
       "blender_version": "5.2.44"
     }
   ]
