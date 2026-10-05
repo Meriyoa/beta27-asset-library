@@ -1,0 +1,1401 @@
+{
+  "asset_count": 49,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Smooth by Angle",
+      "id_type": "NODETREE",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9e98eca8-e987-44d3-88a1-6633d0a8ad82",
+        "description": "Set the sharpness of mesh edges based on the angle between the neighboring faces",
+        "license": "CC0 - Public Domain",
+        "copyright": "Blender Foundation",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 2112
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.smooth_by_angle"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smooth by Angle.001",
+      "id_type": "NODETREE",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9e98eca8-e987-44d3-88a1-6633d0a8ad82",
+        "description": "Set the sharpness of mesh edges based on the angle between the neighboring faces",
+        "license": "CC0 - Public Domain",
+        "copyright": "Blender Foundation",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 2112
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.smooth_by_angle_001"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smooth by Angle.002",
+      "id_type": "NODETREE",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9e98eca8-e987-44d3-88a1-6633d0a8ad82",
+        "description": "Set the sharpness of mesh edges based on the angle between the neighboring faces",
+        "license": "CC0 - Public Domain",
+        "copyright": "Blender Foundation",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 2112
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.smooth_by_angle_001"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_piston_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_piston_001.webp",
+        "hash": "SHA256:40b7024cf68ea38e169ca71fbbb9151cc1dde5dedeaa6f316e4f3bf79915a2c1"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.5721564292907715,
+              0.6832584142684937,
+              0.6442467570304871
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_radiator_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_radiator_001.webp",
+        "hash": "SHA256:0ea3753fbd4dafada0dd5ac528912cd729fdde8e86832b79f50ba7567900f7d0"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.56177818775177,
+              0.2499758005142212,
+              3.2259278297424316
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_rotatingShaft_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_rotatingshaft_001.webp",
+        "hash": "SHA256:2e48119371d879edb28ef5e270269d44677581d136aabb82bb10573ac3c8059e"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6772218942642212,
+              0.677221953868866,
+              1.725239872932434
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_rotatingShaft_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_rotatingshaft_002.webp",
+        "hash": "SHA256:8426f9e54fe83c77fca4da269f677fd9e1e7d81e36bd5390249ebd836d9d714f"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8708825707435608,
+              0.870882511138916,
+              1.494035243988037
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_shaft_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_shaft_001.webp",
+        "hash": "SHA256:33c81a91dab6d6b2722146d6c267e7a68db5abfec87d497b5c66001a383c40f1"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6566115617752075,
+              2.6193275451660156,
+              0.6566115617752075
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_shaft_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_shaft_002.webp",
+        "hash": "SHA256:ca8f0715d6c56308cf98e68675e19caf65da37b205521efd5fff634db390b31b"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6413645148277283,
+              2.5759036540985107,
+              0.6413644552230835
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_sheetMetal_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_sheetmetal_001.webp",
+        "hash": "SHA256:bd0a3f584500e4165c657f9f9922466bb8bbb802f071a78efde49c9033436ebb"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3921234607696533,
+              1.2894203662872314,
+              0.0699504166841507
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_sheetMetalBroken_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_sheetmetalbroken_001.webp",
+        "hash": "SHA256:2847c9f30f6e6481a4954485c7e23d38cccc4f837c02b3c5ab12d5cf20d583f8"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3739712238311768,
+              1.1730555295944214,
+              0.07051804661750793
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_sheetMetalBroken_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_sheetmetalbroken_002.webp",
+        "hash": "SHA256:022e4ef2b17cb45f2e953dfddd147671d9211f7eaf03758c7d32ca2e1182e1c0"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3739712238311768,
+              0.8039647340774536,
+              0.07051809132099152
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_weel_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_weel_001.webp",
+        "hash": "SHA256:8d47dad4a3782621e0a50fd1c9ab25c86cd8e64c2b4e01fdd223be034c2eec77"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.1414432525634766,
+              2.141256093978882,
+              0.9636821746826172
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BIG_ATC_weel_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/big_atc_weel_002.webp",
+        "hash": "SHA256:c2ca902e6f7f006ec326114e4e6a744ef354c4c62c5157dfe334c38584406e08"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.1414432525634766,
+              2.141256093978882,
+              0.9080510139465332
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LIMBS_foot_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/limbs_foot_001.webp",
+        "hash": "SHA256:c0f15d38206ee2f42926977ac3617fcb50126559b07c40a5f177933af471c26c"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8404244780540466,
+              0.5370010733604431,
+              1.2815431356430054
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LIMBS_joint_part_cylinder_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/limbs_joint_part_cylinder_001.webp",
+        "hash": "SHA256:ba68c515f2781881c2d5f9baaaf144cc4022ecfef6fbd131382a9f0418d40a3e"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.528803825378418,
+              0.44857555627822876,
+              0.4485754370689392
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LIMBS_joint_shockAbsorber_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/limbs_joint_shockabsorber_001.webp",
+        "hash": "SHA256:596b7eebf4d73b8e280d64aa4af5319db7395749d97c6f552964c82318b6870d"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3647235035896301,
+              2.5143699645996094,
+              0.3647235035896301
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LIMBS_joint_shockAbsorber_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/limbs_joint_shockabsorber_002.webp",
+        "hash": "SHA256:bb756854bcee07b2bdb616ca501dcf223a40c2f3deceb43f7d689926a281df28"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.413266658782959,
+              2.3905491828918457,
+              0.4132666289806366
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LIMBS_knee_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/limbs_knee_001.webp",
+        "hash": "SHA256:7a7b742a7e74cd83516bf19100948d398e77b713da2a4ea1334eb1471d723188"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8513662815093994,
+              0.3182339668273926,
+              0.9653618335723877
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LIMBS_thigh_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/limbs_thigh_001.webp",
+        "hash": "SHA256:15044749ef9c5168e3f928d5136c5fc9e96e7b9d122a56b139652d2115a4972a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5873881578445435,
+              0.34975773096084595,
+              1.0468984842300415
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_barbedWireShort_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_barbedwireshort_001.webp",
+        "hash": "SHA256:3ef135d659231f4948cf488e5e6cf8f44f36124d4e46466f4087a8dddb52fcf0"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.15405571460723877,
+              1.923297643661499,
+              0.14470961689949036
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_barbedWireShort_001.001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_barbedwireshort_001001.webp",
+        "hash": "SHA256:e036a535b82d8551f5ed61fe182fba5e9a8fe592aac296dea71a2769ece0824c"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.1540732979774475,
+              0.9633651971817017,
+              0.16215932369232178
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_chainLink_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_chainlink_001.webp",
+        "hash": "SHA256:06f5b77c860a41473d9ece710f37d80b2f64c792cc2f84d01840abc54776cee1"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.33127498626708984,
+              0.45097023248672485,
+              0.06940259784460068
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_chainLink_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_chainlink_002.webp",
+        "hash": "SHA256:ff1d3789a3784ce0606afebd57111b23ce1737335e85238624a6db12176501a6"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.2699909806251526,
+              0.38046056032180786,
+              0.04253173619508743
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_chainLink_003",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_chainlink_003.webp",
+        "hash": "SHA256:fbab2ee942dbc7bc675593b51c74a597c67d2223172c134084fd24be8610ffba"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.48256465792655945,
+              1.5738441944122314,
+              0.47519373893737793
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_chainLink_004",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_chainlink_004.webp",
+        "hash": "SHA256:a2d9b88dab48f83205cb28fa36298f1379926a3face090823b6f70d012ac2a70"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.46180734038352966,
+              1.5926650762557983,
+              0.4532760977745056
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_metalBar_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_metalbar_001.webp",
+        "hash": "SHA256:02eecd9a9517237c646bdbc353dda64377c15c4e2c1219a65a3798ae856e9afc"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.2778396010398865,
+              0.2530367970466614,
+              0.22118517756462097
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_metalBar_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_metalbar_002.webp",
+        "hash": "SHA256:c3d78713bb5fb85c0d2e943e68170bd9e826a6df03bb68f597252ea05fb51990"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.2778395712375641,
+              0.25665178894996643,
+              0.29464632272720337
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_metalBar_003",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_metalbar_003.webp",
+        "hash": "SHA256:e0566832dd18c4fd99f99425359448a81473dad2d84799cf7b82e407eeab1db2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.2778395712375641,
+              0.25308358669281006,
+              0.22118514776229858
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_metalPipeShort_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_metalpipeshort_001.webp",
+        "hash": "SHA256:a5d95537e405d777e093e54eb58c24c8b0b59d3336d805985cc454e8348b91ab"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.20931366086006165,
+              0.9755567908287048,
+              0.24169468879699707
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_spiral_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_spiral_001.webp",
+        "hash": "SHA256:f5dfa625cf1a046e3f1cf429a7400ce60f65b7437ee2a9ebaf45adc1cc4960cf"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.515891432762146,
+              2.187276840209961,
+              0.5947829484939575
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REPEAT_spiral_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/repeat_spiral_002.webp",
+        "hash": "SHA256:2df7d5b66ee240b2d173e34679d83746fa3340fd85442d68266beed47d36e1ef"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.4999746084213257,
+              2.5188827514648438,
+              0.5007128119468689
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_...spike_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_spike_001.webp",
+        "hash": "SHA256:f22e8a95066753b1fdcf2661030160d05d9b54befdb1d5e71c422478dbaecef9"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.41523656249046326,
+              0.21925653517246246,
+              1.185160756111145
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_foot_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_foot_001.webp",
+        "hash": "SHA256:601a91a5b0ced716c87b7e430d40b26188151a0ce7a9e137fec3fccb2ddb0c8a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8660120964050293,
+              0.21820485591888428,
+              0.6936647891998291
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_gear_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_gear_001.webp",
+        "hash": "SHA256:af0a90a7a3b0be6d17e4155c5edd19a19cdfdb2e6eba861ef1f96f3884da6189"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.1085057258605957,
+              1.1085057258605957,
+              0.1834888756275177
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_gear_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_gear_002.webp",
+        "hash": "SHA256:899766bccb5729bffec2a891792bc4a5d89987d24f1b9f3dcec3abd4dd4207db"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.1085058450698853,
+              1.1085058450698853,
+              0.12172465026378632
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_gear_003",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_gear_003.webp",
+        "hash": "SHA256:e6f73238b7dedc64d8a05ff7609d6cb49344f12670d0ffb0bfa4f7f6bc37a15e"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9287855625152588,
+              0.9287855625152588,
+              0.12605290114879608
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_gear_004",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_gear_004.webp",
+        "hash": "SHA256:d79f0abf061223ecaf66ccbb1deb35e075f0d4f7cecf58bf3c71d67f10da96dc"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8950405120849609,
+              0.8950536847114563,
+              0.14470833539962769
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_gear_005",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_gear_005.webp",
+        "hash": "SHA256:99348b2485f04f5f8c8c27b2fba8ae4b08d342d908f0f0f899851a1f78ff6b87"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.042940616607666,
+              0.7235580682754517,
+              0.20424231886863708
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_gear_006",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_gear_006.webp",
+        "hash": "SHA256:95481efdbab4f4c2f30ea83a95b7b3c6975b5c5db889c96371f30ed666da99bd"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7214011549949646,
+              0.7238267660140991,
+              0.11851202696561813
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_ovenDoor_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_ovendoor_001.webp",
+        "hash": "SHA256:b2493a2ab6d805a4b4454ec0803cc5942683d1678bd736163069a4ffad36c018"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7017985582351685,
+              0.9374409914016724,
+              0.1138283908367157
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_saw_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_saw_001.webp",
+        "hash": "SHA256:1b1745cd3df682963f8db5dcc3d843f0d7fd855b667ec6e4ed800984990654ce"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.762787938117981,
+              0.7661982774734497,
+              0.06050924211740494
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_saw_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_saw_002.webp",
+        "hash": "SHA256:131508b373c8b7b3d9056d5d507861e602d1022bd31cf57caf03732d84e6eaf3"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.744292140007019,
+              0.7476198077201843,
+              0.07960088551044464
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_screwSmallRound_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_screwsmallround_001.webp",
+        "hash": "SHA256:37b7dff78f0c7ea3b2d193c7176b3d0ec2fd8d37ebd4df16d64702bea07bb757"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.17372140288352966,
+              0.34786421060562134,
+              0.17372140288352966
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_screwSmallTwisted_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_screwsmalltwisted_001.webp",
+        "hash": "SHA256:d977fff2600229a4321ea0bc0ff5aad5b88cbdf2343d03b2305ca22ce21a30c9"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.12218129634857178,
+              0.47608256340026855,
+              0.1301460564136505
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_spineChain_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_spinechain_001.webp",
+        "hash": "SHA256:c7129c9cc433a4926ad5e3675aff2bac9103ed9fbb7c341a7bac9e0dd8d8df3a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5810980200767517,
+              0.3155075013637543,
+              0.1921934336423874
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_spineChain_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_spinechain_002.webp",
+        "hash": "SHA256:77c95653f8707dbca0ba350449e9385e121faf08eca674f4e97d2cd8c4aeefc4"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5711861848831177,
+              0.3092140555381775,
+              0.16836318373680115
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_thingy_001",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_thingy_001.webp",
+        "hash": "SHA256:e472cd6f01f49d22753a3bb1cd88e3606abab4b63a9bf5f066fa3f53765b47ea"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.35626518726348877,
+              0.23716400563716888,
+              0.16079255938529968
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SMALL_ATC_thingy_002",
+      "id_type": "OBJECT",
+      "files": [
+        "enemy_library.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "enemy_library_thumbnails/Object/small_atc_thingy_002.webp",
+        "hash": "SHA256:67f8e85d16033e65ce0c33a2f74769ab454c3a23f63ff739a5072f6bba3f67a2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.24247217178344727,
+              0.3708376884460449,
+              0.1607925444841385
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "enemy_library.blend",
+      "size_in_bytes": 1943957,
+      "hash": "SHA256:f489f2cce824799186b4bcae7138ab97bfa92d9a0a807f03735accd2965acddf",
+      "blender_version": "5.2.44"
+    }
+  ]
+}
