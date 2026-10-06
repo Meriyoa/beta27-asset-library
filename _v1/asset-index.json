@@ -1,13 +1,84 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 4747763,
-  "asset_count": 61,
+  "asset_size_bytes": 4233404,
+  "asset_count": 113,
   "file_count": 2,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:8e473867b7fa2161620b0384ae301e7609f28eeabee8b858997e50f6c176d7fc"
+      "hash": "SHA256:b4c7a733c238f07835749428e794f61ae30773add0fefb7b7b984e7e3a212225"
     }
   ],
-  "catalogs": []
+  "catalogs": [
+    {
+      "path": "enemy",
+      "uuids": [
+        "fabd4bb2-7e2c-4eb6-a4d6-46b1488d3e51"
+      ],
+      "simple_name": "enemy"
+    },
+    {
+      "path": "enemy/big attachments",
+      "uuids": [
+        "f12eee81-d733-4003-8157-4afcb0666679"
+      ],
+      "simple_name": "enemy-big attachments"
+    },
+    {
+      "path": "enemy/limbs",
+      "uuids": [
+        "17e2155d-0123-4031-9f5e-741f126ce2cc"
+      ],
+      "simple_name": "enemy-limbs"
+    },
+    {
+      "path": "enemy/repeatables",
+      "uuids": [
+        "e0514e56-c876-41a8-bb4f-fa82b4145bdf"
+      ],
+      "simple_name": "enemy-repeatables"
+    },
+    {
+      "path": "enemy/small attachments",
+      "uuids": [
+        "0499f13a-cf18-415d-b3bb-1eab9e9a4cba"
+      ],
+      "simple_name": "enemy-small attachments"
+    },
+    {
+      "path": "environment",
+      "uuids": [
+        "3cdf4a4b-df47-498a-a967-a8c52d390be5"
+      ],
+      "simple_name": "environment"
+    },
+    {
+      "path": "environment/decorations",
+      "uuids": [
+        "1ff8f4d1-5d3f-463d-b7e5-cd1fbd5724f4"
+      ],
+      "simple_name": "environment-decorations"
+    },
+    {
+      "path": "environment/platforms",
+      "uuids": [
+        "72bd6272-343e-4180-84c6-522c2a036f7d"
+      ],
+      "simple_name": "environment-platforms"
+    },
+    {
+      "path": "environment/structures",
+      "uuids": [
+        "6d52c208-bde8-48c0-babc-45f6aeae88ba"
+      ],
+      "simple_name": "environment-structures"
+    },
+    {
+      "path": "environment/walls",
+      "uuids": [
+        "ba1e437b-f508-46cd-9dd5-3693e42cde7a"
+      ],
+      "simple_name": "environment-walls"
+    }
+  ]
 }
