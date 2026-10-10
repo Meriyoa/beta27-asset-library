@@ -1,5 +1,5 @@
 {
-  "asset_count": 113,
+  "asset_count": 112,
   "file_count": 2,
   "assets": [
     {
@@ -1820,7 +1820,7 @@
             "name": "dimensions",
             "type": "IDP_ARRAY",
             "value": [
-              5.050000190734863,
+              5.049997329711914,
               5.050004005432129,
               0.5000014305114746
             ],
@@ -1878,9 +1878,9 @@
             "name": "dimensions",
             "type": "IDP_ARRAY",
             "value": [
-              5.000004768371582,
-              5.000004768371582,
-              0.5000013113021851
+              10.679788589477539,
+              5.413949966430664,
+              0.5000013709068298
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2806,9 +2806,9 @@
             "name": "dimensions",
             "type": "IDP_ARRAY",
             "value": [
-              1.0000001192092896,
-              0.9242088794708252,
-              0.14765751361846924
+              0.9978342056274414,
+              0.8992061018943787,
+              0.13686493039131165
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2836,8 +2836,8 @@
             "type": "IDP_ARRAY",
             "value": [
               4.099999904632568,
-              4.0,
-              14.766693115234375
+              2.1414215564727783,
+              14.27780532836914
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2865,8 +2865,8 @@
             "type": "IDP_ARRAY",
             "value": [
               4.100000381469727,
-              4.0,
-              14.733308792114258
+              2.1414215564727783,
+              14.244421005249023
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2895,7 +2895,7 @@
             "value": [
               3.1883597373962402,
               0.375966340303421,
-              1.5009337663650513
+              1.499996304512024
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -3222,35 +3222,6 @@
       }
     },
     {
-      "name": "wooden_palette_straight",
-      "id_type": "OBJECT",
-      "files": [
-        "environment_library.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "environment_library_thumbnails/Object/wooden_palette_straight.webp",
-        "hash": "SHA256:f9c0cb3fce862b2373526d012d201ec95cf611156cc72ca90a04408fda9b3cb0"
-      },
-      "meta": {
-        "catalog_id": "1ff8f4d1-5d3f-463d-b7e5-cd1fbd5724f4",
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              1.9976519346237183,
-              1.0968694686889648,
-              0.31615519523620605
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
-    },
-    {
       "name": "wooden_palette_straight_broken",
       "id_type": "OBJECT",
       "files": [
@@ -3289,8 +3260,8 @@
     },
     {
       "path": "environment_library.blend",
-      "size_in_bytes": 2766477,
-      "hash": "SHA256:60aae402d9ff05f6baff817c0afd3bf86cb206958c07b26300083b373af02c5a",
+      "size_in_bytes": 12129446,
+      "hash": "SHA256:e03a790db8133184524a19459c6ce29966b648856c1c000294c6b697965c1f1f",
       "blender_version": "5.2.44"
     }
   ]
